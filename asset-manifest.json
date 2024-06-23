@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/business-management-rapp/static/css/main.645a7f0f.css",
+    "main.js": "/business-management-rapp/static/js/main.6fa31978.js",
+    "static/js/453.38ab4761.chunk.js": "/business-management-rapp/static/js/453.38ab4761.chunk.js",
+    "index.html": "/business-management-rapp/index.html",
+    "main.645a7f0f.css.map": "/business-management-rapp/static/css/main.645a7f0f.css.map",
+    "main.6fa31978.js.map": "/business-management-rapp/static/js/main.6fa31978.js.map",
+    "453.38ab4761.chunk.js.map": "/business-management-rapp/static/js/453.38ab4761.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.645a7f0f.css",
+    "static/js/main.6fa31978.js"
+  ]
+}
